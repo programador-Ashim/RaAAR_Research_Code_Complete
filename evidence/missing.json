@@ -1,0 +1,1 @@
+{"facts":[{"source_id":"SYN-SPEC-2B","candidate":"display","capability":"show_temperature","polarity":true,"valid_versions":["2.0"],"authority":"authoritative","superseded_by":null,"excerpt":"The display shows readings."}]}

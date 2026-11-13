@@ -1,0 +1,15 @@
+{
+  "scenario": "supported",
+  "synthetic": true,
+  "documents": [
+    {
+      "source_id": "SUP-20",
+      "path": "documents/current_support.txt",
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative",
+      "superseded_by": null
+    }
+  ]
+}

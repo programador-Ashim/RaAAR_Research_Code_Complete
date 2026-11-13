@@ -1,0 +1,262 @@
+model,task,seed,fold,dataset,group,doc,candidate,gold,prob_positive,predicted,threshold
+roberta,detection,42,1,damir_cv,RS12-528|40|its|The Contractor-provided equipmen,RS12,,1,0.4728941845465496,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-529|45|its|Evaluation of the Facilities use,RS12,,1,0.47175347021908326,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-530|15|they|The use of standardized graphic ,RS12,,0,0.46712839695353925,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-531|46|their|All modules shall not be prone t,RS12,,1,0.471571979158082,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-532|48|its|The FTI Ground Station shall all,RS12,,0,0.4693857456397306,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-533|44|them|The FTI Ground Station shall hav,RS12,,0,0.47097736639421006,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-534|39|them|The y-axis date scale of each se,RS12,,1,0.4700514869936242,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-535|64|them|The FTI Ground Station shall inc,RS12,,1,0.4724557878983797,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-536|45|their|The FTI Ground Station will be c,RS12,,1,0.4718540312537764,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-537|76|they|The IIE will provide the ability,RS12,,1,0.47252216147558695,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-538|42|it|The Contractor will be a main co,RS12,,1,0.4697715783040917,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-539a|25|their|The milestones represent the tim,RS12,,0,0.47479826916776835,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-541|22|It|The DND Information Service (DND,RS12,,0,0.4675000072341315,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-542|58|they|The IS support functions related,RS12,,1,0.473041655165666,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-543|56|they|The IETIS may be installed on a ,RS12,,1,0.47252291078310804,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-544|61|their|The Contractor Integrated Techni,RS12,,0,0.4736203934467703,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-545|37|their|DND-provided elements of the IIE,RS12,,1,0.4741396351409472,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-546|38|It|The IETIS will integrate differe,RS12,,0,0.4723136684038975,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-547|36|It|It will process Health and Usage,RS12,,1,0.4699456344420855,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-548|32|It|The IETIS will be a critical ele,RS12,,0,0.46933860188647003,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-549|27|It|It will provide access to techni,RS12,,1,0.4686484795310548,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-550|28|it|The IETIS shall have GUI and tex,RS12,,1,0.46705525940882514,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-551|42|its|The IETIS shall allow a user to ,RS12,,1,0.4709558919084041,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-552|62|its|The IETIS shall not have a total,RS12,,1,0.46885900151004734,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-553|54|its|The IETIS shall not have an accu,RS12,,1,0.4684696667177282,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-554|34|It|The IETIS will support the proce,RS12,,0,0.4666028183713218,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-555|65|they|In the event of a failure of the,RS12,,0,0.4716562215514609,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-556|38|its|The IETIS shall accept and trans,RS12,,1,0.469630427609846,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-557|52|its|The IETIS will assist users in t,RS12,,1,0.4703432897846476,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-558|15|They|These Features will calculate an,RS12,,0,0.47517945456842176,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-559|27|It|The IETIS will enable the mainte,RS12,,0,0.4687417105467819,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-560|61|its|The IETIS shall display, in orde",RS12,,1,0.469355239131141,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-561|33|they|The IETIS shall cross-refer the ,RS12,,0,0.4690107902551058,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-562|59|its|The IETIS shall track the perfor,RS12,,1,0.4791739855747506,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-563|81|its|The IETIS shall allow a user to ,RS12,,1,0.47084351166035066,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-564|64|its|The IETIS shall assist a user in,RS12,,1,0.4717847455808711,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-565|27|It|The IETIS will display the MH em,RS12,,0,0.47415129773444825,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-566|83|their|The IETIS shall display the MH E,RS12,,0,0.47526205096571855,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-567|55|its|The IETIS shall allow a user to ,RS12,,1,0.4692388299519876,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-568|69|its|The IETIS shall maintain auditab,RS12,,1,0.4709669377295233,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-569|35|their|The IETIS shall support the tran,RS12,,1,0.47248361687377827,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-571|33|their|The IETIS shall allow a user to ,RS12,,0,0.4698659821073943,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-572|58|their|The IETIS shall record, by date ",RS12,,1,0.46939908369773414,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-573|33|their|The IETIS shall alert a technici,RS12,,1,0.4717754397414237,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-574|49|they|Supporting equipment operating i,RS12,,0,0.4736097933384091,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-575|68|their|The IETIS shall display Contract,RS12,,0,0.4689957255590269,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-576|58|their|The IETIS will display informati,RS12,,1,0.4733791610235853,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-577|47|It|The IETIS maintenance instructio,RS12,,1,0.4727713970051167,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-578|50|it|The IETIS shall demonstrate, thr",RS12,,1,0.47313004531992536,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-580|29|its|The IETIS shall display the appr,RS12,,1,0.4713811553351502,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-581|29|their|The IETIS shall display data tha,RS12,,1,0.47309260670564846,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-582|24|itself|The IETIS shall display controls,RS12,,1,0.4733219587056059,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-583|61|they|The IETIS shall include comments,RS12,,1,0.47329033685389793,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-584|33|they|Procedures prescribed for the op,RS12,,1,0.46836391307240777,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-585|40|they|The IETIS shall display warnings,RS12,,1,0.4678462264068928,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-586|53|it|The IETIS shall display warnings,RS12,,1,0.4709139968493804,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-588|69|them|The IETIS shall display appropri,RS12,,0,0.47006687944812137,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-590|31|it|The IETIS shall limit, to necess",RS12,,1,0.4695262597341908,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-591|39|its|The IETIS shall display informat,RS12,,1,0.4696662762051357,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-592|56|they|The IETIS shall display numerica,RS12,,1,0.47339022489653154,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-593|66|its|The IETIS shall display all nome,RS12,,0,0.4692913812083302,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-594|41|it|The IETIS shall play computer ge,RS12,,0,0.4702596499989509,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-595|20|It|The IETIS will display configura,RS12,,0,0.4721233107030269,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-596|35|its|The IETIS shall display configur,RS12,,1,0.47120967774745354,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-597|38|its|The IETIS shall display configur,RS12,,1,0.4716714516983365,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-598|59|their|The IETIS job performance aide f,RS12,,1,0.4711314032626122,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-599|27|It|The TIMS will provide and record,RS12,,0,0.46968062426757823,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-601|23|it|The TIMS shall display un-transl,RS12,,1,0.4669053491419732,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-602|51|its|The TIMS shall provide changes t,RS12,,1,0.4686961523117383,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-603|30|its|The TIMS shall allow a user to e,RS12,,1,0.4730367213776436,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-604|62|its|The TIMS shall not have a total ,RS12,,1,0.4683360204152651,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-606b|87|their|Using resource availability, cap",RS12,,0,0.4712442333382756,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-607|64|their|The TIMS shall provide progress ,RS12,,0,0.4709018907321976,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-608|81|their|The TIMS shall be able to dissem,RS12,,1,0.472013429397612,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-609|15|It|The TIMS will support the admini,RS12,,0,0.4673681966403284,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-610|16|It|The TIMS will provide the automa,RS12,,0,0.46955424603645185,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-611|26|It|The TIMS will provide access to ,RS12,,0,0.471529440396796,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-612|44|themselves|The trainer will be able to, wit",RS12,,0,0.4722569455198987,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-614|20|their|The TIMS shall display readings ,RS12,,1,0.4711131957841505,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-615|43|they|The TIMS shall display controls ,RS12,,1,0.4709415487657997,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-616|28|its|The TIMS shall display perspecti,RS12,,1,0.4702030007936213,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-617|34|its|The TIMS shall allow a trainee t,RS12,,0,0.4720189831182776,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-618a|64|they|The TIMS shall allow a designate,RS12,,1,0.47019976347242953,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-618b|71|their|The TIMS shall allow a designate,RS12,,1,0.470501382682587,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-620|43|its|These could include servers, PCs",RS12,,0,0.47282569816133746,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-621|65|its|The TIMS shall be available for ,RS12,,1,0.47264057727477127,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-622|42|its|The TIMS shall make use of Contr,RS12,,1,0.4706932575006617,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-624|38|its|The MPAS shall display GUIs, tex",RS12,,1,0.4685460847125017,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-625|47|its|The MPAS shall allow a user to p,RS12,,1,0.469179385009911,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-626|104|its|The MPAS shall be considered una,RS12,,1,0.4705019756683472,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-627|64|it|The MPAS shall allow a user to r,RS12,,0,0.4722297111650262,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-628|27|its|The MPAS shall use and produce d,RS12,,1,0.47035846243782836,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-629|41|its|The MPAS shall transform data, w",RS12,,0,0.47181714297546945,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-630|44|their|The MPAS will be capable of bein,RS12,,1,0.47100330088160397,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-631|37|its|The MPAS will include electronic,RS12,,0,0.472219683919774,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-632|52|its|The MPAS shall be available for ,RS12,,1,0.47228174921378174,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-633|33|their|The MPAS shall enable post missi,RS12,,0,0.47001244282728266,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-635|26|their|The CITIS shall support Canada i,RS12,,0,0.4705699572257845,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-636|37|its|The CITIS shall store structured,RS12,,0,0.4701205748477038,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-637|41|its|The CITIS shall store and displa,RS12,,1,0.4690295335323079,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-638|47|its|The CITIS shall be available for,RS12,,0,0.4672665588776188,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-639|64|its|The CITIS shall not have an accu,RS12,,1,0.4672040554271094,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-640|79|its|These capabilities support activ,RS12,,0,0.46999468378974024,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-641|53|its|The CITIS will support the Proje,RS12,,1,0.46966891653065324,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-642|71|its|Automated features, tools, and d",RS12,,1,0.47035734506643034,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-643|79|their|The CITIS shall provide Canada w,RS12,,1,0.4722008506899561,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-644|53|It|The CITIS will support the MH Fl,RS12,,0,0.4686201071231869,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-645b|31|its|It will support the implementing,RS12,,0,0.46968325300358743,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-646|51|It|The CITIS will capture and proce,RS12,,1,0.47346484571794956,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-647|78|its|It will allow a user to review a,RS12,,0,0.47221056843053083,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-648|51|its|The CITIS shall allow a user to ,RS12,,1,0.47218232334413124,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-649|20|It|The CITIS will allow for the tra,RS12,,0,0.47117144764014923,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-650|57|its|It will be supported by features,RS12,,1,0.4689403606425332,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-651|67|their|The CITIS shall provide a user w,RS12,,1,0.4701018210043909,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-653|67|its|It is understood that the featur,RS12,,1,0.4696397375716042,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-654|32|It|The CITIS will support the Proje,RS12,,0,0.47183265920898204,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-656|55|their|It will apply to technical probl,RS12,,1,0.4708022702470197,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-657|65|their|The CITIS shall provide Canada w,RS12,,1,0.47085988946317925,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-658a|46|its|The CITIS shall support the init,RS12,,1,0.47066383285570695,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-658b|65|their|The CITIS shall support the init,RS12,,1,0.47080552566493244,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-659a|50|It|The CITIS will provide Configura,RS12,,0,0.47125034483091244,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-659b|71|their|The CITIS will provide Configura,RS12,,1,0.4725309897559527,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-660|63|its|Automated features, tools, and d",RS12,,1,0.47031227877453136,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-661|41|their|The CITIS shall display both fun,RS12,,0,0.4747885467254191,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-662|62|its|The CITIS shall identify and dis,RS12,,1,0.47018203605857195,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-663|65|its|The CITIS will support the MH Qu,RS12,,1,0.4705841111774719,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-664|58|its|The CITIS shall allow a user to ,RS12,,0,0.4748203899440441,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-665|83|its|The CITIS will link all of the n,RS12,,1,0.47273557797605303,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-666|59|its|The CITIS shall allow a user to ,RS12,,0,0.47457207251481187,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-667|38|their|The CITIS shall allow a user to ,RS12,,1,0.4718130303262998,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-668|72|its|The CITIS will support continuin,RS12,,1,0.47054280864872877,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-669|58|its|The Contractor will perform supp,RS12,,1,0.47094324732997916,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-670|55|its|The CITIS shall capture, store, ",RS12,,0,0.4715050687988783,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-671|34|its|The CITIS shall allow a user to ,RS12,,1,0.47070758681546937,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-672|62|its|This will include the provision ,RS12,,1,0.47020855728733035,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-673|21|It|The CITIS will provide STE capab,RS12,,0,0.4698847362770828,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-674|46|its|It will support the features of ,RS12,,1,0.46972733260096083,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-675|53|their|The CITIS shall support the auth,RS12,,1,0.4713375658421954,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-676|56|their|The CITIS shall integrate the us,RS12,,1,0.4704715393592183,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-677|12|its|The MHAEIE shall provide offline,RS12,,0,0.4718945144089222,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-678|39|its|The OMS shall, in integrated mod",RS12,,1,0.4704171100042079,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-679|29|its|The OMS sub-components will inde,RS12,,0,0.47376757068150976,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-680|31|its|The OMS ocean model simulation s,RS12,,1,0.47392944591932423,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-681|23|their|The OMS simulation shall correla,RS12,,0,0.4706513255755028,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-683|45|their|The Mission Procedures Trainer (,RS12,,0,0.4683990838892132,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-684|25|their|The Upgraded A3 EWOS shall be ca,RS12,,0,0.47426620515180623,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-686|78|its|If the condition of a required i,RS12,,1,0.4721262134329076,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,"RS12-687|37|it|Within an OADE, the MAMTDA shall",RS12,,1,0.4689021968453301,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-688|79|it|The value of DAAUTDE for an OADE,RS12,,1,0.4697181685859289,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-690|87|it|The TPTAT for TECHNICAL PROBLEMS,RS12,,1,0.47261043251651585,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-691|75|it|NSMP-MPAS shall be the value of ,RS12,,1,0.4725857207419776,1,0.4500000000000001
+roberta,detection,42,1,damir_cv,RS12-692|34|its|The MTHS components subject to P,RS12,,1,0.4717709358298646,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#01|None|it|All material that is stored in t,library#01,,1,0.4671074567851632,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#02|None|them|The library may want to accept i,library#02,,0,0.4727243856715323,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"library#03|None|it|Once material has arrived, it mu",library#03,,0,0.4689959741937789,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#04|None|they|Allows resources to be reviewed ,library#04,,0,0.4668173432757066,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#05|None|their|Allows metadata to be stored in ,library#05,,0,0.47267217632669545,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#06|None|it|The Coordinate Updates function ,library#06,,1,0.4693957240116535,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#07|None|them|Archival Storage functions inclu,library#07,,0,0.4727736037300482,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"library#10|None|it|However, the data constituting t",library#10,,1,0.4691885839975816,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#11-a|None|their|The migration strategy must sele,library#11,,1,0.4715555499235925,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#11-b|None|their|The migration strategy must sele,library#11,,1,0.471555552708518,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#12-a|None|them|This function receives an AIP re,library#12,,0,0.4686595502519068,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#12-b|None|them|This function receives an AIP re,library#12,,0,0.46865955164340206,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#13|None|it|The Generate Report function rec,library#13,,1,0.4680415154690587,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#15|None|they|Administration functions include,library#15,,1,0.47323260740159023,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#16|None|they|Audits data in SIPs or AIPs to e,library#16,,1,0.46962651239379016,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#17|None|it|The Activate Requests function m,library#17,,1,0.4669317552445349,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#18|None|it|Maintains a record of event-driv,library#18,,0,0.46644310653694443,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#19|None|their|The Monitor Designated Community,library#19,,0,0.47364048006634807,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#20|None|their|Interacts with repository users ,library#20,,1,0.4727400587126077,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#21|None|it|This function receives reports f,library#21,,0,0.47147571148005396,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#22|None|their|This function also receives exte,library#22,,1,0.47184144713909487,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#23|None|their|Produces profiles of those stand,library#23,,1,0.47067851197242844,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#24|None|their|NLM will test preservation actio,library#24,,1,0.47128901005654417,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,library#25|None|its|NLM System Administration/Progra,library#25,,1,0.4684359330681249,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#01|None|they|The Clarus system shall process ,weather#01,,0,0.4662793548456826,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#02|None|its|The Clarus system shall be able ,weather#02,,0,0.4701312639915083,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#03|None|their|The Clarus system shall be able ,weather#03,,0,0.4706520592495375,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#04|None|them|The Clarus system shall be able ,weather#04,,1,0.46849507753144576,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#05|None|they|The CAS shall be configurable to,weather#05,,0,0.47011411553161025,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#06|None|its|CS shall collect environmental d,weather#06,,1,0.4703672756687402,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#07|None|its|CS shall be able to dynamically ,weather#07,,0,0.4695354247121193,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#08|None|they|CS shall process environmental d,weather#08,,0,0.46870771622445595,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#09|None|its|The Clarus system shall be able ,weather#09,,1,0.4733937604007873,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#10|None|its|CS shall be able to accept data ,weather#10,,1,0.46963417627382203,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#11|None|its|The Clarus system shall be able ,weather#11,,1,0.47006096262159164,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#12|None|they|The DOG shall be able to monitor,weather#12,,0,0.469603152935013,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#13|None|its|The DOG shall be able to record ,weather#13,,0,0.4681208496535903,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#14|None|their|The QEDC shall maintain observat,weather#14,,0,0.47024223049314634,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#15|None|its|The QEDC shall support queries f,weather#15,,0,0.46945717998372094,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#16|None|their|QEDS shall log their activities.,weather#16,,1,0.4692589548580116,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#18|None|their|The contributors shall define th,weather#18,,0,0.47091473619565277,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#19|None|it|The Clarus program shall determi,weather#19,,0,0.46858743573748257,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,weather#20|None|their|The Clarus program shall inform ,weather#20,,0,0.46893628652365466,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#01|None|it|The logon screen shall activate ,railway#01,,0,0.4648642288482271,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#02|None|it|When a device status has been ov,railway#02,,0,0.4663971815530557,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#04|None|their|The user should not be able to u,railway#04,,1,0.46735626159041527,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#05|None|it|Any change in device state shall,railway#05,,0,0.4653717287074929,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#06-a|None|it|When each workstation and contro,railway#06,,1,0.47028636475059066,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#06-b|None|its|When each workstation and contro,railway#06,,1,0.4711636802474426,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#07|None|it|The RLCS software shall initiali,railway#07,,1,0.4686783698060163,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#08|None|their|The devices can be manually cont,railway#08,,0,0.4828090361260094,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#09|None|its|The normal operating mode is Mon,railway#09,,0,0.46716952002751033,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#11-a|None|it|If the supervision is performed ,railway#11,,1,0.4704334170781534,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#11-b|None|its|If the supervision is performed ,railway#11,,1,0.47091878528622266,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"railway#15|None|him|On request of the RBC, the drive",railway#15,,0,0.46743788157003924,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#17|None|it|If the release speed is calculat,railway#17,,1,0.4663787125179922,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"railway#19|None|him|Within the braking curve area, a",railway#19,,0,0.4659463543834708,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#21|None|it|If a train cannot stop at the pr,railway#21,,1,0.46449955229822776,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#22|None|its|The train may proceed unrestrict,railway#22,,0,0.46830704871566103,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#24|None|it|If the text message facility is ,railway#24,,0,0.46586284121649146,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#25|None|it|Where fax functionality is provi,railway#25,,1,0.4665330844393898,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#31|None|it|If the train moves out of the ca,railway#31,,1,0.46564908792216764,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#34-b|None|it|It should be possible for the Ca,railway#34,,1,0.4666447516112954,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#35|None|it|Where the Cab radio is required ,railway#35,,0,0.46850609541273985,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"railway#36|None|it|When the MMI is switched on, the",railway#36,,0,0.46836191178854314,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#40-a|None|it|The design of the equipment shal,railway#40,,1,0.47856141942051406,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#40-b|None|it|The design of the equipment shal,railway#40,,1,0.4785614421959684,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"railway#48|None|it|After the 30 second period, if t",railway#48,,0,0.46541754532134405,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"railway#49|None|it|For post-incident analysis, it i",railway#49,,1,0.47240505230397545,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#50|None|it|Throughout the duration of the s,railway#50,,1,0.4695263623210548,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#53|None|our|300ms represents our current bes,railway#53,,1,0.4708310702153557,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#54|None|it|Each authority can decide whethe,railway#54,,0,0.4763341950723247,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#55|None|it|The network shall terminate the ,railway#55,,1,0.468832832290136,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#56|None|it|The network shall send the SET-P,railway#56,,1,0.4724448613603588,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#57-a|None|it|When the network has detected th,railway#57,,1,0.4727666089353781,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#57-b|None|its|When the network has detected th,railway#57,,1,0.47307748266493604,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#58|None|it|The network shall send the SET-P,railway#58,,1,0.4810868293047023,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#59|None|their|Many of the railway specific sta,railway#59,,0,0.47642303776545425,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#60|None|its|Each of the other cabs on the tr,railway#60,,1,0.4681259761519408,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"railway#61|None|it|Upon registration, the mobile sh",railway#61,,0,0.46741913616832853,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,railway#62|None|he|The Cab radio system shall provi,railway#62,,0,0.46798746335502484,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,home#01|None|them|The Digitalhome programmable App,home#01,,1,0.475412102436416,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,home#02|None|it|Although the product produced un,home#02,,1,0.4721734080672871,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,home#03|None|their|The Digitalhome System shall pro,home#03,,0,0.47241393890868777,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"space#01|None|its|The FCP shall, if the NEFU ICP f",space#01,,0,0.4786045214302601,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#02-a|None|it|Each rate group has some number ,space#02,,0,0.46966003658125854,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#02-b|None|it|Each rate group has some number ,space#02,,0,0.4696600444683524,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#03|None|its|The enabled tasks are then unblo,space#03,,1,0.4695889638106074,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#04-a|None|it|An API call is available for the,space#04,,1,0.46839416852698695,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#04-b|None|its|An API call is available for the,space#04,,1,0.4694991959132796,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#05-a|None|it|There is up to a full major fram,space#05,,1,0.46750165937574395,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#05-b|None|it|There is up to a full major fram,space#05,,1,0.46750166030313206,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#06|None|its|The scheduler shall execute cycl,space#06,,1,0.4680743121716285,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#07|None|their|The scheduler shall give tasks p,space#07,,1,0.46906375371408227,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#08-a|None|it|The scheduler shall provide a me,space#08,,1,0.4664611248431274,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#08-b|None|it|The scheduler shall provide a me,space#08,,1,0.4664611160353719,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#09|None|their|All tasks in rate groups and the,space#09,,1,0.4688355912823568,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#10|None|their|Tasks in a rate group must suspe,space#10,,0,0.4719260381246322,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#11|None|its|For hardware exceptions and rese,space#11,,1,0.4696841247644533,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#12|None|them|Messages are addressed with a gl,space#12,,0,0.4810604068883718,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#13|None|they|This restriction does NOT apply ,space#13,,0,0.47901737659341337,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#14|None|it|FTSS shall mask out a babbling N,space#14,,1,0.467188620751512,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#15|None|they|Synchronous message passing sock,space#15,,1,0.4692720814238275,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#16-a|None|they|Pipes may be opened by multiple ,space#16,,1,0.4710969469643157,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#16-b|None|they|Pipes may be opened by multiple ,space#16,,1,0.47109694742842095,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#17|None|their|Communication services shall pro,space#17,,1,0.47966008742199495,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,"space#18|None|it|If the broadcast option is used,",space#18,,1,0.47137947562834104,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#19|None|its|The application software shall h,space#19,,1,0.4691022757722665,1,0.4500000000000001
+roberta,detection,42,1,reqeval_external,space#20|None|it|Redundancy Management picks up w,space#20,,0,0.4650274925805082,1,0.4500000000000001

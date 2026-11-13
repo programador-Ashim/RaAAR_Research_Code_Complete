@@ -1,0 +1,7 @@
+[
+ {"id":"SYN-001","scenario":"supported","context":"The sensor sends readings to the display. It measures temperature.","pronoun":"It","candidate":"sensor","candidates":["sensor","display"],"capability":"measure_temperature","target_version":"2.0","facts_file":"supported.json"},
+ {"id":"SYN-002","scenario":"missing","context":"The sensor sends readings to the display. It measures temperature.","pronoun":"It","candidate":"sensor","candidates":["sensor","display"],"capability":"measure_temperature","target_version":"2.0","facts_file":"missing.json"},
+ {"id":"SYN-003","scenario":"outdated","context":"The sensor sends readings to the display. It measures temperature.","pronoun":"It","candidate":"sensor","candidates":["sensor","display"],"capability":"measure_temperature","target_version":"2.0","facts_file":"outdated.json"},
+ {"id":"SYN-004","scenario":"contradictory","context":"The sensor sends readings to the display. It measures temperature.","pronoun":"It","candidate":"sensor","candidates":["sensor","display"],"capability":"measure_temperature","target_version":"2.0","facts_file":"contradictory.json"},
+ {"id":"SYN-005","scenario":"refuted","context":"The sensor sends readings to the display. It measures temperature.","pronoun":"It","candidate":"sensor","candidates":["sensor","display"],"capability":"measure_temperature","target_version":"2.0","facts_file":"refuted.json"}
+]

@@ -1,0 +1,1 @@
+case_id,model,task,gold_label_or_antecedent,predicted_label_or_antecedent,linguistic_error,evidence_gap,version_error,contradiction_error,annotation_problem,source_reference,notes

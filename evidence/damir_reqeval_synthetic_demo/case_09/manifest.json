@@ -1,0 +1,26 @@
+{
+  "requirement_keys": [
+    "ReqEval:weather#02"
+  ],
+  "evidence_origin": "synthetic",
+  "study_note": "Artificial data created to test pipeline behavior; not source truth for DAMIR/ReqEval",
+  "scenario_label_for_testing_only": "contradictory",
+  "documents": [
+    {
+      "source_id": "SYN-09-POS",
+      "path": "current_support.txt",
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative"
+    },
+    {
+      "source_id": "SYN-09-NEG",
+      "path": "current_refute.txt",
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative"
+    }
+  ]
+}

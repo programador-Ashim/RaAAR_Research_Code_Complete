@@ -1,0 +1,1 @@
+{"facts":[{"source_id":"SYN-SPEC-1A","candidate":"sensor","capability":"measure_temperature","polarity":true,"valid_versions":["1.0"],"authority":"authoritative","superseded_by":"SYN-SPEC-2A","excerpt":"In version 1, the sensor measures temperature."}]}

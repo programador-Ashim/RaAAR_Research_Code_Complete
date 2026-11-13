@@ -1,0 +1,55 @@
+{
+  "damir_records": 587,
+  "reqeval_records": 109,
+  "damir_detection_labeled": 564,
+  "reqeval_detection_labeled": 109,
+  "damir_resolution_eligible_pronouns": 266,
+  "damir_detection_excluded": 23,
+  "damir_resolution_excluded": 321,
+  "reqeval_resolution_eligible_pronouns": 23,
+  "reqeval_resolution_excluded": 86,
+  "document_grouping": "HEURISTIC: id prefix before hyphen; verify source documents",
+  "distinct_group_keys": 18,
+  "folds": [
+    {
+      "fold": 1,
+      "train_pronouns_all": 434,
+      "heldout_pronouns_all": 153,
+      "train_groups": 17,
+      "test_groups": 1,
+      "test_examples": 152
+    },
+    {
+      "fold": 2,
+      "train_pronouns_all": 478,
+      "heldout_pronouns_all": 109,
+      "train_groups": 13,
+      "test_groups": 5,
+      "test_examples": 109
+    },
+    {
+      "fold": 3,
+      "train_pronouns_all": 478,
+      "heldout_pronouns_all": 109,
+      "train_groups": 15,
+      "test_groups": 3,
+      "test_examples": 105
+    },
+    {
+      "fold": 4,
+      "train_pronouns_all": 479,
+      "heldout_pronouns_all": 108,
+      "train_groups": 13,
+      "test_groups": 5,
+      "test_examples": 106
+    },
+    {
+      "fold": 5,
+      "train_pronouns_all": 479,
+      "heldout_pronouns_all": 108,
+      "train_groups": 14,
+      "test_groups": 4,
+      "test_examples": 92
+    }
+  ]
+}

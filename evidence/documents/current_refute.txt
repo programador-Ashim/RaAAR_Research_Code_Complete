@@ -1,0 +1,3 @@
+Controller responsibility specification 2.0.
+The sensor does not measure temperature.
+The controller measures temperature.

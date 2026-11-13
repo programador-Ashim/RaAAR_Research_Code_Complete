@@ -1,0 +1,470 @@
+model,task,seed,fold,dataset,group,doc,candidate,gold,prob_positive,predicted,threshold
+roberta,resolution,42,1,damir_cv,RS3-208|54|it|The range of values of bulk dens,RS3,values,0,0.17479798260103366,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-208|54|it|The range of values of bulk dens,RS3,the nucleus,0,0.17957497651756998,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-208|54|it|The range of values of bulk dens,RS3,design cases,0,0.1757915014167626,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-208|54|it|The range of values of bulk dens,RS3,the range,0,0.1765304107813697,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-208|54|it|The range of values of bulk dens,RS3,The spacecraft,1,0.1835009687785711,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-208|54|it|The range of values of bulk dens,RS3,the launcher upper stage,0,0.17826093237994647,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-209|11|It|The landing site will be specifi,RS3,The landing site,1,0.20859932033697018,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-209|11|It|The landing site will be specifi,RS3,the SSP team,0,0.20413151356555995,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,The spacecraft,0,0.16363587713374117,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,the standard radiation environment monitor,0,0.16045891832804368,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,accordance,0,0.1583268917445507,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,The spacecraft,0,0.16363585266141478,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,all instrument sensors,1,0.16155873565494194,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,the plasma package,0,0.1585531886057904,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,the plasma package or SSP,0,0.16208523111939344,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,SSP,0,0.16175624789198664,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,a single side,0,0.15853725325024376,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-210|40|their|The spacecraft shall accommodate,RS3,the main body,0,0.16064070806175088,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,The spacecraft,0,0.16061936344532332,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,all instrument sensors,0,0.1607647064721614,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,the plasma package,0,0.1576937466620176,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,the plasma package or SSP,0,0.16011559545763437,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,a single side,0,0.1562140882666594,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,the main body,0,0.15880817982485895,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,the spacecraft side,0,0.1544113807825061,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,this general direction,0,0.15911308508442107,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,sight,0,0.1524346197121549,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,The spacecraft,0,0.16061933933749006,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,two deployable booms,0,0.15956536564707813,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,the plasma sensors,1,0.16067882226291938,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-211|73|their|The spacecraft shall accommodate,RS3,accordance,0,0.1559718115754894,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-215|53|it|In the event of a fault which is,RS3,the event,0,0.15554890707770613,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-215|53|it|In the event of a fault which is,RS3,a fault,0,0.15416948483851994,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-215|53|it|In the event of a fault which is,RS3,the spacecraft,0,0.1570825402311432,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-215|53|it|In the event of a fault which is,RS3,a safe sun pointing configuration,0,0.15337338464076522,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-215|53|it|In the event of a fault which is,RS3,a commandable state,0,0.155462655807734,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-215|53|it|In the event of a fault which is,RS3,Spacecraft,1,0.15840152147611078,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-215|53|it|In the event of a fault which is,RS3,a detected failure mode,0,0.15218431161047055,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,The Spacecraft DMS function,0,0.16230166540984267,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,a Failure Management System,0,0.1604239210335236,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,The implementation,0,0.16031834836699474,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,the Spacecraft failure management system,0,0.15889828001606024,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,critical functions,1,0.15689047089435076,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,failure detection,0,0.1530290544605798,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,identification,0,0.15076635790327916,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,identification and recovery software,0,0.14731219825466038,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-217|37|them|The Spacecraft DMS function shal,RS3,recovery software,0,0.14791216002430774,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-220|24|its|This will be on the basis of sel,RS3,the basis,0,0.18286166273693477,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-220|24|its|This will be on the basis of sel,RS3,a pre-defined set,0,0.1797349857582408,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-220|24|its|This will be on the basis of sel,RS3,commands,0,0.1800957062129089,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-220|24|its|This will be on the basis of sel,RS3,this case,0,0.1822583924528669,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-220|24|its|This will be on the basis of sel,RS3,The spacecraft,1,0.18812731381203598,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-223|21|their|This will be necessary to maximi,RS3,the resilience,0,0.19315964163416297,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-223|21|their|This will be necessary to maximi,RS3,the system,0,0.1967387008610445,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-223|21|their|This will be necessary to maximi,RS3,multiple faults,0,0.19219773963042305,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-223|21|their|This will be necessary to maximi,RS3,All units,1,0.20183075497313113,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-226|40|it|Procedures can be up-linked to a,RS3,Procedures,0,0.1617427273909425,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-226|40|it|Procedures can be up-linked to a,RS3,an SSMM file and/or non-volatile RAM,0,0.15905867211898023,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-226|40|it|Procedures can be up-linked to a,RS3,an SSMM file and/or non-volatile RAM and/or working RAM,0,0.15770053962880543,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-226|40|it|Procedures can be up-linked to a,RS3,working RAM,0,0.1578484286992868,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-226|40|it|Procedures can be up-linked to a,RS3,the procedure,1,0.16210160821831307,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,A standard thermal cycling method,0,0.1793687057263218,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,the contractor,0,0.1769826966754642,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,specific thermal cycling tests,0,0.17509639057740395,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,the actual application,0,0.1740170155787543,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,qualification,0,0.16676136432650604,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,at least a factor,0,0.1737979392526254,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,the number,0,0.17513069209523338,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,cycles,0,0.16801678614352053,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,end,0,0.16912870984386336,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,operational life,0,0.16775738880125587,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,Materials,1,0.1748297529765671,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235a|61|they|A standard thermal cycling metho,RS3,the radiation,0,0.17291964312343322,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,A standard thermal cycling method,0,0.1778171435376803,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,the contractor,0,0.17482138647959003,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,specific thermal cycling tests,0,0.17300923758609796,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,the actual application,0,0.17204323109596778,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,qualification,0,0.16492288767935187,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,at least a factor,0,0.1719746569159361,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,the number,0,0.1726719319174811,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,cycles,0,0.16700167777739827,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,end,0,0.16729380869017924,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,operational life,0,0.16642384898481824,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,Materials,1,0.17244249091706695,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-235b|66|their|A standard thermal cycling metho,RS3,the radiation,0,0.17107411501274952,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-236|25|they|Compatibility shall be demonstra,RS3,test,0,0.1767453949654267,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-236|25|they|Compatibility shall be demonstra,RS3,insufficient data,0,0.1779594456930765,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-236|25|they|Compatibility shall be demonstra,RS3,standard references,0,0.179670371320486,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-236|25|they|Compatibility shall be demonstra,RS3,standard references or previous applications,0,0.1791135639795123,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-236|25|they|Compatibility shall be demonstra,RS3,previous applications,0,0.17779540291935103,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-236|25|they|Compatibility shall be demonstra,RS3,Materials,1,0.1824594498148408,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-239|33|its|All parts or sub-assembly having,RS3,All parts,0,0.18639052085097563,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-239|33|its|All parts or sub-assembly having,RS3,All parts or sub-assembly,0,0.18649189629499244,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-239|33|its|All parts or sub-assembly having,RS3,sub-assembly,0,0.18022745519218003,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-239|33|its|All parts or sub-assembly having,RS3,the same identification number,0,0.18395477603411803,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-239|33|its|All parts or sub-assembly having,RS3,The Spacecraft,1,0.18967767146908884,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-239|33|its|All parts or sub-assembly having,RS3,all mechanical static and dynamic loads,0,0.17993919306311423,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-240|38|its|The mechanical static test envir,RS3,The mechanical static test environment,0,0.17355575692724787,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-240|38|its|The mechanical static test envir,RS3,the capability,0,0.17338126580805027,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-240|38|its|The mechanical static test envir,RS3,the structure,0,0.17398778595997677,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-240|38|its|The mechanical static test envir,RS3,the Design Loads,0,0.17580657182940132,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-240|38|its|The mechanical static test envir,RS3,chapter,0,0.1697592259335713,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-240|38|its|The mechanical static test envir,RS3,The Spacecraft,1,0.18111236512670292,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-240|38|its|The mechanical static test envir,RS3,all the thermal environments,0,0.17275690162346313,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-243|38|its|and they shall be inserted into ,RS3,the appropriate requirements specifications,0,0.1854163790744372,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-243|38|its|and they shall be inserted into ,RS3,The spacecraft,1,0.19244418514098074,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-243|38|its|and they shall be inserted into ,RS3,the effects,0,0.18236294780420667,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-243|38|its|and they shall be inserted into ,RS3,the varying flux,0,0.18478386940989083,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-243|38|its|and they shall be inserted into ,RS3,high energy particles,0,0.18830400830093721,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-244a|17|its|These effects can be separated a,RS3,These effects,0,0.23723104775678486,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-244a|17|its|These effects can be separated a,RS3,at least into three classes,0,0.2325007330632365,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-244a|17|its|These effects can be separated a,RS3,These effects,0,0.23723104775678486,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-244a|17|its|These effects can be separated a,RS3,at least into three classes,0,0.2325007330632365,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-244a|17|its|These effects can be separated a,RS3,the spacecraft,1,0.2352698427345911,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,All the Design Loads,1,0.18289034283688974,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,the various parts,0,0.182805408223727,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,subassemblies,0,0.17997324228338293,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,subassemblies or complete structure,0,0.17604948805449025,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,complete structure,0,0.17644523684088764,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,analyses,0,0.1726380537559645,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,significant events,0,0.1790061977404359,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-247|28|They|All the Design Loads applicable ,RS3,the complete life time,0,0.17988154691224778,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-248|20|its|The stability analysis shall be ,RS3,The stability analysis,0,0.1971430154220751,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-248|20|its|The stability analysis shall be ,RS3,section,0,0.18804925257622007,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-248|20|its|The stability analysis shall be ,RS3,Each potential cause,1,0.194376547257847,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-248|20|its|The stability analysis shall be ,RS3,misalignment,0,0.19202919582444544,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,The S/C primary structure,0,0.18109179534448064,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,test,0,0.17608223290860053,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,other secondary structure,0,0.17779953304084675,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,other secondary structure or units,0,0.17848263620044577,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,units,0,0.17558420295155067,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,the proto flight approach,0,0.17659647053474492,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,All the standard potted inserts,1,0.18259162659769962,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-249|41|their|The S/C primary structure shall ,RS3,proof,0,0.17258275655558977,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-250|33|their|All the standard potted inserts ,RS3,All the standard potted inserts,0,0.19684007413659915,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-250|33|their|All the standard potted inserts ,RS3,proof,0,0.18467443427576782,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-250|33|their|All the standard potted inserts ,RS3,delivery,0,0.18554145658222282,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-250|33|their|All the standard potted inserts ,RS3,the assembly,0,0.1921533239382266,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-250|33|their|All the standard potted inserts ,RS3,The special inserts,1,0.1982259909870459,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-253|17|their|The mechanisms shall satisfy the,RS3,The mechanisms,0,0.1872291347473813,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-253|17|their|The mechanisms shall satisfy the,RS3,the requirements,0,0.18507403278076998,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-253|17|their|The mechanisms shall satisfy the,RS3,chapter,0,0.18140263969989393,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-253|17|their|The mechanisms shall satisfy the,RS3,Motors,1,0.18853576554482643,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-255|29|their|Failure of one element shall not,RS3,Failure,0,0.18663833414466321,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-255|29|their|Failure of one element shall not,RS3,one element,0,0.19003232753797497,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-255|29|their|Failure of one element shall not,RS3,any other element,0,0.18975180613115827,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-255|29|their|Failure of one element shall not,RS3,the tolerances,0,0.18421862541384165,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-255|29|their|Failure of one element shall not,RS3,the functional requirements,0,0.18839895609026944,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-255|29|their|Failure of one element shall not,RS3,The mechanisms,1,0.19213247902049752,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-255|29|their|Failure of one element shall not,RS3,any periodic maintenance,0,0.1837589943539799,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-256|24|their|The stiffness requirements are m,RS3,The stiffness requirements,0,0.20327800600669277,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-256|24|their|The stiffness requirements are m,RS3,the margins,0,0.19850571936659583,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-256|24|their|The stiffness requirements are m,RS3,section,0,0.1926837688993471,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-256|24|their|The stiffness requirements are m,RS3,The thermal analysis,0,0.2040641635401695,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-256|24|their|The stiffness requirements are m,RS3,all the parts,1,0.20551455641795094,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,a high voltage,0,0.1708125706024035,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,50 V,0,0.17273216612452633,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,voltage,0,0.1636608567564648,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,windings,0,0.17093652004895768,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,windings and the structure,0,0.16823347026862867,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,the structure,0,0.16558122162949135,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,a period,0,0.16860559413970824,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,time,0,0.1654383981846165,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,at least 2 minutes,0,0.1724980928688271,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,disruptive charges,0,0.16669998580630646,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,Torsional loads,0,0.17229488625484288,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-263|67|their|Windings shall be designed to wi,RS3,electrical cables,1,0.17085981801517724,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-265|36|their|during launch) and are to be sep,RS3,launch,0,0.17915590573150392,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-265|36|their|during launch) and are to be sep,RS3,deployment,0,0.17603371827804812,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-265|36|their|during launch) and are to be sep,RS3,parts,1,0.18434977264805313,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-265|36|their|during launch) and are to be sep,RS3,composition,0,0.1758861466356193,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-265|36|their|during launch) and are to be sep,RS3,a lubrication,0,0.18437140001804345,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,deployment,0,0.15950011967205008,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,parts,0,0.15881067209500396,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,composition,0,0.15416158812310546,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,a lubrication,0,0.16179325815990048,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,the risk,0,0.16057439938793266,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,cold-welding,0,0.1607975198202959,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,cold-welding or fretting,0,0.16291633741537134,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,fretting,0,0.15757425152521726,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-266|47|their|for deployment) and parts which ,RS3,All deployable appendages,1,0.1694054452354123,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-267|26|their|The units and equipments mounted,RS3,The units,0,0.19163414916317842,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-267|26|their|The units and equipments mounted,RS3,The units and equipments,0,0.2338739876728555,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-267|26|their|The units and equipments mounted,RS3,equipments,0,0.1846457619630567,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-267|26|their|The units and equipments mounted,RS3,the S/C,0,0.18809714587323745,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-267|26|their|The units and equipments mounted,RS3,two groups,0,0.1874524118615432,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-267|26|their|The units and equipments mounted,RS3,"The Collectively Controlled, C/C units",1,0.2306091708249078,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-268a|32|their|The Collectively Controlled, (C/",RS3,the S/C.,0,0.18179043360947003,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-268a|32|their|The Collectively Controlled, (C/",RS3,"The Individually Controlled, I/C units",1,0.17955439378718258,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-268b|45|they|The Collectively Controlled, (C/",RS3,their TRP temperature,0,0.1795032347201528,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-268b|45|they|The Collectively Controlled, (C/",RS3,the S/C.,0,0.18489419908013321,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-268b|45|they|The Collectively Controlled, (C/",RS3,"The Individually Controlled, I/C units",1,0.18167852140335533,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-268b|45|they|The Collectively Controlled, (C/",RS3,their TRP temperature,0,0.1795031996054324,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-268b|45|they|The Collectively Controlled, (C/",RS3,the S/C,0,0.17891690150478926,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-269a|37|themselves|The Individually Controlled, (I/",RS3,their TRP temperature,0,0.17828388766521786,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-269a|37|themselves|The Individually Controlled, (I/",RS3,the S/C,0,0.17826785626747466,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-269a|37|themselves|The Individually Controlled, (I/",RS3,the units,1,0.18069483816516166,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-272|38|They|TCS uncertainties shall be added,RS3,TCS uncertainties,1,0.17444559835377496,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-272|38|They|TCS uncertainties shall be added,RS3,the TCS,0,0.1772469839525863,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-272|38|They|TCS uncertainties shall be added,RS3,temperatures,0,0.1686374885139082,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-272|38|They|TCS uncertainties shall be added,RS3,the TCS design,0,0.17487223522925208,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-272|38|They|TCS uncertainties shall be added,RS3,TRPâ€™s and STPâ€™s,0,0.17777195675606053,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-272|38|They|TCS uncertainties shall be added,RS3,chart,0,0.16990602052187084,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273a|24|their|The S/C thermistors shall be con,RS3,The S/C thermistors,1,0.19756076927894936,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273a|24|their|The S/C thermistors shall be con,RS3,the test,0,0.19376809503560832,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273a|24|their|The S/C thermistors shall be con,RS3,the assessment,0,0.18781034487540593,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273a|24|their|The S/C thermistors shall be con,RS3,the stabilisation,0,0.19005965942915967,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273b|32|they|The S/C thermistors shall be con,RS3,The S/C thermistors,1,0.19896898944911587,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273b|32|they|The S/C thermistors shall be con,RS3,the test,0,0.1958067243033798,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273b|32|they|The S/C thermistors shall be con,RS3,the assessment,0,0.19000132934653807,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273b|32|they|The S/C thermistors shall be con,RS3,the stabilisation,0,0.19155977602385432,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273b|32|they|The S/C thermistors shall be con,RS3,their accuracy,0,0.1957729941811323,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-273b|32|they|The S/C thermistors shall be con,RS3,the need,0,0.19698658857053727,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-275|22|their|The TCS design shall allow easy ,RS3,The TCS design,0,0.19588678758999303,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-275|22|their|The TCS design shall allow easy ,RS3,easy access,0,0.19019816338083817,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-275|22|their|The TCS design shall allow easy ,RS3,the units,0,0.19218902243381844,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-275|22|their|The TCS design shall allow easy ,RS3,the units and equipments,0,0.19294349680601003,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-275|22|their|The TCS design shall allow easy ,RS3,equipments,0,0.18804967121514335,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-275|22|their|The TCS design shall allow easy ,RS3,All parts,1,0.1953730450401933,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-275|22|their|The TCS design shall allow easy ,RS3,the TCS,0,0.1945822055407389,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-276|26|they|The TCS shall be testable on gro,RS3,The TCS,0,0.20666558254260106,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-276|26|they|The TCS shall be testable on gro,RS3,ground,0,0.19592330256467264,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-276|26|they|The TCS shall be testable on gro,RS3,special equipments,1,0.2003551072772993,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-276|26|they|The TCS shall be testable on gro,RS3,the heat,0,0.19866356651047334,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-276|26|they|The TCS shall be testable on gro,RS3,the spacecraft functional tests,0,0.19968388181420355,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-276|26|they|The TCS shall be testable on gro,RS3,ambient environment,0,0.1931816118355724,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-278|17|It|The AOCMS shall accept ground or,RS3,The AOCMS,1,0.18339874595150843,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-278|17|It|The AOCMS shall accept ground or,RS3,board,0,0.17495088325619348,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-278|17|It|The AOCMS shall accept ground or,RS3,attitude,0,0.1697331180306453,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-278|17|It|The AOCMS shall accept ground or,RS3,attitude and orbit manoeuvres,0,0.175796225385173,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-278|17|It|The AOCMS shall accept ground or,RS3,orbit manoeuvres,0,0.17570691006783565,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-285|18|their|The implementation of mechanical,RS3,The implementation,0,0.19210491974473076,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-285|18|their|The implementation of mechanical,RS3,mechanical gyroscopes,0,0.19061152695150022,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-285|18|their|The implementation of mechanical,RS3,Non-mechanical gyroscopes,1,0.19239211322876226,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,The spacecraft,0,0.16788603161131563,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,a set,0,0.1634202516250242,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,low level thrusters,0,0.1664583739680862,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,manoeuvres,0,0.16199355859111145,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,spin rate control,0,0.1597124481266843,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,loading,0,0.15900987754737686,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,the rendezvous manoeuvre sequence,0,0.1634495975512424,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,The propulsion system,1,0.16845041065903577,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-287|76|it|The spacecraft shall carry a set,RS3,a minimum thrust level,0,0.1668308551565778,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-288|18|their|Pure force thrusters for orbit m,RS3,Pure force thrusters,0,0.19664659467043621,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-288|18|their|Pure force thrusters for orbit m,RS3,orbit manoeuvres,0,0.19160300688486664,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-288|18|their|Pure force thrusters for orbit m,RS3,minimum residual torques,0,0.19254826849926618,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-288|18|their|Pure force thrusters for orbit m,RS3,The characteristics,0,0.19963355419247666,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-288|18|their|Pure force thrusters for orbit m,RS3,the thrusters,1,0.19689142588355915,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,The subsystem,0,0.18010625920798412,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,condition,0,0.16802971774747985,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,control,0,0.16939670636395437,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,electrical power,0,0.1737351953478966,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,the ROSETTA spacecraft,0,0.175338361913165,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,adequate status monitoring,0,0.16815007306641316,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,adequate status monitoring and telecommand interfaces,0,0.16863599270483784,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,telecommand interfaces,0,0.16657535494736625,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,the subsystem,1,0.17671829390703273,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-291|36|its|The subsystem shall condition, c",RS3,evaluation,0,0.1675178939501756,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-292|9|It|The power subsystem shall contai,RS3,The power subsystem,1,0.1978625031049459,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-292|9|It|The power subsystem shall contai,RS3,all electronics,0,0.19687244463246262,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-294|10|their|in nominal orbit, if necessary. ",RS3,nominal orbit,0,0.1712719158092781,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-294|10|their|in nominal orbit, if necessary. ",RS3,The batteries,1,0.18069928556569467,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-295|20|its|Battery temperature monitoring s,RS3,Battery temperature monitoring,0,0.18025813844571995,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-295|20|its|Battery temperature monitoring s,RS3,all batteries,0,0.18047675557199674,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-295|20|its|Battery temperature monitoring s,RS3,The solar cell generator,1,0.18250189978829987,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-296|40|it|solar attitude, sun intensity, r",RS3,radiation,0,0.18118565147444318,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-296|40|it|solar attitude, sun intensity, r",RS3,MPPT tracking error,0,0.18422825493470818,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-296|40|it|solar attitude, sun intensity, r",RS3,accepted cell degradation figures,0,0.1830119246441346,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-296|40|it|solar attitude, sun intensity, r",RS3,accepted cell degradation figures and actual cell performance measurements,0,0.18031016132956648,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-296|40|it|solar attitude, sun intensity, r",RS3,actual cell performance measurements,0,0.18504929448694532,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-296|40|it|solar attitude, sun intensity, r",RS3,The solar cell generator,1,0.19033870108525852,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,The actuation,0,0.16522642404853727,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,pyrotechnical devices,0,0.1631594541404228,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,any state,0,0.16047573271349486,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,the operational envelope,0,0.15815409148387188,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,all defined environments,0,0.15820927722711045,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,the time,0,0.16117780096295553,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,activation,0,0.15722422397459235,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,The pyrotechnical subsystem,1,0.16432201126721194,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,reliable maintenance,0,0.15696733404830632,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-297|45|it|The actuation of pyrotechnical d,RS3,the original states,0,0.16233677429574234,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-298|20|it|The receiver shall provide a sig,RS3,The receiver,0,0.2088478663516199,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-298|20|it|The receiver shall provide a sig,RS3,a signal,0,0.20705771396238,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-298|20|it|The receiver shall provide a sig,RS3,the level,0,0.20164360932968722,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-298|20|it|The receiver shall provide a sig,RS3,the uplink,0,0.204737339951213,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-298|20|it|The receiver shall provide a sig,RS3,This signal,1,0.2086372949449144,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,The telemetry/telecommand bit streams,0,0.16635299769445355,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,The telemetry/telecommand bit streams and clocks,0,0.16485569199359737,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,clocks,0,0.155262359800451,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,Bit Error Rate,0,0.16638326155142183,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,The TT&C system,0,0.16797841261887783,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,no single point failures,0,0.165798968470362,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,the radiating elements,1,0.16141336146146543,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-303|35|their|The telemetry/telecommand bit st,RS3,antennas,0,0.16057439938793266,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-304b|34|them|The data shall be conditioned, d",RS3,The data,0,0.19066264206545347,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-304b|34|them|The data shall be conditioned, d",RS3,transmission,0,0.17934151813660118,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-304b|34|them|The data shall be conditioned, d",RS3,ground,0,0.18379031393410428,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-304b|34|them|The data shall be conditioned, d",RS3,the uplink signal,0,0.1865529879827553,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-304b|34|them|The data shall be conditioned, d",RS3,the Radio Frequency system,0,0.1852663810395014,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-304b|34|them|The data shall be conditioned, d",RS3,the commands,1,0.19125276789248324,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,Concatenated coding,0,0.1716117057737416,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,"i.e., convolutional",0,0.16472410566378187,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,"i.e., convolutional and Reed-Solomon coding",0,0.16648878550869822,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,Reed-Solomon coding,0,0.16842102382609053,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,all telemetry encoding,1,0.16760898223578735,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,Convolutional,0,0.16848410201577424,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,Reed-Solomon,0,0.1725926215156638,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,Reed-Solomon and transfer frame formatting,0,0.16589141970832136,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,transfer frame formatting,0,0.1638798819008734,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,hardware,0,0.16243622595832666,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,hardware and software,0,0.16914152534896204,0,0.5
+roberta,resolution,42,1,damir_cv,"RS3-306b|42|it|Concatenated coding, i.e., convo",RS3,software,0,0.16299247570253894,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,a pre-designed unit,0,0.15921781508100363,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,any modification,0,0.15759503797630695,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,the software,0,0.15861881238931677,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,the subject,0,0.1586122895872306,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,a formal review,0,0.15730076977377502,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,test,0,0.15019911606552208,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,test and maintenance,0,0.1526488026720775,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,maintenance,0,0.14937169301345893,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,standards,0,0.15039210106966497,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,a code inspection,0,0.1553542454772054,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,this review,0,0.15600179589774216,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,any additional actions,1,0.15829621079598896,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-312|64|they|Software already produced and em,RS3,the software,0,0.15861881238931677,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-313|25|itself|Software engineering parameters ,RS3,Software engineering parameters,0,0.17498209040705806,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-313|25|itself|Software engineering parameters ,RS3,ground,0,0.17131419534273545,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-313|25|itself|Software engineering parameters ,RS3,the status,0,0.17388808147946888,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-313|25|itself|Software engineering parameters ,RS3,the software,0,0.17611396202548144,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-313|25|itself|Software engineering parameters ,RS3,Software,1,0.17767793507430688,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,board,0,0.1809658528617277,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,a high level language,0,0.18312308347713727,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,The use,0,0.18355345894838532,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,assembler code,1,0.18530017573543192,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,Rosetta software,0,0.18471030868143354,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,the required performance,0,0.18179272985106684,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,the satisfaction,0,0.17906275719525447,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-316|46|it|Rosetta on-board software shall ,RS3,ESA,0,0.18739029476958716,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-317|22|themselves|Software units which are changed,RS3,Software units,0,0.19448118126404165,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-317|22|themselves|Software units which are changed,RS3,formal verification,0,0.18727908094668705,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-317|22|themselves|Software units which are changed,RS3,full regression testing,0,0.18895901942046348,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-317|22|themselves|Software units which are changed,RS3,the update,0,0.189806731944924,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-317|22|themselves|Software units which are changed,RS3,the tests,1,0.19304104467154126,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,Connections,0,0.16380477362523246,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,the initiators,0,0.16306842300466703,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,ground handling,0,0.15733663586073057,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,safe/arm connectors,0,0.15936210668992482,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,the outside,0,0.15788596538892713,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,the S/C.,0,0.1683442366376854,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,All equipment,1,0.16285246515015608,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-322|37|its|Connections to the initiators sh,RS3,a separate connector,0,0.15995712744859414,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-324|41|its|The spacecraft shall provide a 1,RS3,The spacecraft,0,0.1743091818198282,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-324|41|its|The spacecraft shall provide a 1,RS3,the baseline payload accommodation,0,0.16872244108000123,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-324|41|its|The spacecraft shall provide a 1,RS3,EID-A including contingency,0,0.17060183142008514,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-324|41|its|The spacecraft shall provide a 1,RS3,Phase C/D.,0,0.17694024568301894,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-324|41|its|The spacecraft shall provide a 1,RS3,The structural design,0,0.1711531594525354,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-324|41|its|The spacecraft shall provide a 1,RS3,the spacecraft,1,0.1725023129352503,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-324|41|its|The spacecraft shall provide a 1,RS3,payload interfaces,0,0.16735903312170852,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325a|29|its|The spacecraft shall provide 25W,RS3,The spacecraft,0,0.17976369641537113,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325a|29|its|The spacecraft shall provide 25W,RS3,25W mean heater power,0,0.17497270284864375,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325a|29|its|The spacecraft shall provide 25W,RS3,the individually controlled payload,0,0.17793893822227322,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325a|29|its|The spacecraft shall provide 25W,RS3,the hibernation phase,0,0.17520773482007113,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325a|29|its|The spacecraft shall provide 25W,RS3,The thermal design,0,0.17827365398472048,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325a|29|its|The spacecraft shall provide 25W,RS3,the spacecraft,1,0.17808654261158066,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,The spacecraft,0,0.1798331810025598,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,25W mean heater power,0,0.17561987409553745,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,the individually controlled payload,0,0.1785850526436529,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,the hibernation phase,0,0.17557001891451557,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,The thermal design,0,0.1785801825381171,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,the spacecraft,0,0.17821245360503393,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,its requirements,0,0.17562985855028374,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,the power dissipation,0,0.17799711730041523,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-325b|40|their|The spacecraft shall provide 25W,RS3,payload units,1,0.17482139507808886,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,The spacecraft,0,0.1744764425397422,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,a mass allocation,0,0.16621448997363578,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,contingency margin,0,0.16246835738217122,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,phase,0,0.1604912635981071,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,the SSP comprising,0,0.16489154009008725,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,The structural design,0,0.1710375445749457,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,the spacecraft,1,0.17101881804523214,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-326|40|its|The spacecraft shall provide a m,RS3,SSP interfaces,0,0.16804558337745587,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-327|28|its|The spacecraft shall provide the,RS3,The spacecraft,0,0.18607561792347577,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-327|28|its|The spacecraft shall provide the,RS3,the following maximum power,0,0.18190416456542685,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-327|28|its|The spacecraft shall provide the,RS3,the ejection device,0,0.18119458286456003,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-327|28|its|The spacecraft shall provide the,RS3,the Lander,0,0.18463287624874472,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-327|28|its|The spacecraft shall provide the,RS3,The thermal design,0,0.1832573728874468,0,0.5
+roberta,resolution,42,1,damir_cv,RS3-327|28|its|The spacecraft shall provide the,RS3,the spacecraft,1,0.1842811749857895,0,0.5
+roberta,resolution,42,1,reqeval_external,library#02|None|them|The library may want to accept i,library#02,The library,0,0.19842953309434752,0,0.5
+roberta,resolution,42,1,reqeval_external,library#02|None|them|The library may want to accept i,library#02,important digital materials,1,0.19478752397629528,0,0.5
+roberta,resolution,42,1,reqeval_external,library#02|None|them|The library may want to accept i,library#02,non-standard formats,0,0.1943581697673632,0,0.5
+roberta,resolution,42,1,reqeval_external,library#02|None|them|The library may want to accept i,library#02,case,0,0.19058864902137143,0,0.5
+roberta,resolution,42,1,reqeval_external,library#02|None|them|The library may want to accept i,library#02,library,0,0.1895480555792344,0,0.5
+roberta,resolution,42,1,reqeval_external,library#04|None|they|Allows resources to be reviewed ,library#04,a decision,0,0.21504296101874215,0,0.5
+roberta,resolution,42,1,reqeval_external,library#04|None|they|Allows resources to be reviewed ,library#04,resources,1,0.20860219359392165,0,0.5
+roberta,resolution,42,1,reqeval_external,library#04|None|they|Allows resources to be reviewed ,library#04,decision,0,0.20516046457952516,0,0.5
+roberta,resolution,42,1,reqeval_external,library#05|None|their|Allows metadata to be stored in ,library#05,a database,0,0.18075892780156086,0,0.5
+roberta,resolution,42,1,reqeval_external,library#05|None|their|Allows metadata to be stored in ,library#05,a manner,0,0.1809208457797326,0,0.5
+roberta,resolution,42,1,reqeval_external,library#05|None|their|Allows metadata to be stored in ,library#05,repository reformatting,0,0.17200562212312395,0,0.5
+roberta,resolution,42,1,reqeval_external,library#05|None|their|Allows metadata to be stored in ,library#05,metadata,1,0.17747740051374342,0,0.5
+roberta,resolution,42,1,reqeval_external,library#07|None|them|Archival Storage functions inclu,library#07,Archival Storage functions,0,0.15800242517543006,0,0.5
+roberta,resolution,42,1,reqeval_external,library#07|None|them|Archival Storage functions inclu,library#07,AIPs,1,0.1605322889674641,0,0.5
+roberta,resolution,42,1,reqeval_external,library#07|None|them|Archival Storage functions inclu,library#07,Ingest,0,0.15560875561987447,0,0.5
+roberta,resolution,42,1,reqeval_external,library#07|None|them|Archival Storage functions inclu,library#07,functions,0,0.15251765308318732,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-a|None|them|This function receives an AIP re,library#12,This function,0,0.18794825411904656,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-a|None|them|This function receives an AIP re,library#12,an AIP request,0,0.18572009979276874,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-a|None|them|This function receives an AIP re,library#12,the requested AIP(s,1,0.1882894322410862,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-a|None|them|This function receives an AIP re,library#12,function,0,0.1795874728198948,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-b|None|them|This function receives an AIP re,library#12,This function,0,0.18794825411904656,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-b|None|them|This function receives an AIP re,library#12,an AIP request,0,0.18572009979276874,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-b|None|them|This function receives an AIP re,library#12,the requested AIP(s,1,0.1882894322410862,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-b|None|them|This function receives an AIP re,library#12,the requested media type,0,0.18225500786668475,0,0.5
+roberta,resolution,42,1,reqeval_external,library#12-b|None|them|This function receives an AIP re,library#12,function,0,0.1795874728198948,0,0.5
+roberta,resolution,42,1,reqeval_external,library#18|None|it|Maintains a record of event-driv,library#18,a record,1,0.189428345772557,0,0.5
+roberta,resolution,42,1,reqeval_external,library#18|None|it|Maintains a record of event-driv,library#18,event-driven events,0,0.18748229143889952,0,0.5
+roberta,resolution,42,1,reqeval_external,library#19|None|their|The Monitor Designated Community,library#19,The Monitor Designated Community function,0,0.17529172335191742,0,0.5
+roberta,resolution,42,1,reqeval_external,library#19|None|their|The Monitor Designated Community,library#19,archive Consumers,0,0.17290253499426605,0,0.5
+roberta,resolution,42,1,reqeval_external,library#19|None|their|The Monitor Designated Community,library#19,archive Consumers and Producers,1,0.1722012939072427,0,0.5
+roberta,resolution,42,1,reqeval_external,library#19|None|their|The Monitor Designated Community,library#19,Producers,0,0.1823014635783278,0,0.5
+roberta,resolution,42,1,reqeval_external,library#19|None|their|The Monitor Designated Community,library#19,changes,0,0.17369676370293088,0,0.5
+roberta,resolution,42,1,reqeval_external,library#19|None|their|The Monitor Designated Community,library#19,function,0,0.17191722000638682,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#01|None|they|The Clarus system shall process ,weather#01,The Clarus system,0,0.2046630983256309,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#01|None|they|The Clarus system shall process ,weather#01,data,1,0.19723251301997496,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#01|None|they|The Clarus system shall process ,weather#01,system,0,0.19122763718559174,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#03|None|their|The Clarus system shall be able ,weather#03,The Clarus system,0,0.1911675402198816,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#03|None|their|The Clarus system shall be able ,weather#03,RWIS databases,1,0.18587497235286202,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#03|None|their|The Clarus system shall be able ,weather#03,system,0,0.18247797071794553,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#08|None|they|CS shall process environmental d,weather#08,CS,0,0.203449676927538,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#08|None|they|CS shall process environmental d,weather#08,environmental data,1,0.20053722925468134,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#12|None|they|The DOG shall be able to monitor,weather#12,The DOG,0,0.20052844749100013,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#12|None|they|The DOG shall be able to monitor,weather#12,new environmental data services,1,0.19016272009168256,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#14|None|their|The QEDC shall maintain observat,weather#14,The QEDC,0,0.19616784790093797,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#14|None|their|The QEDC shall maintain observat,weather#14,observations,1,0.187386010790102,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#14|None|their|The QEDC shall maintain observat,weather#14,observations and their associated quality flags,0,0.18321764980274982,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#15|None|its|The QEDC shall support queries f,weather#15,The QEDC,1,0.20265696232034602,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#15|None|its|The QEDC shall support queries f,weather#15,queries,0,0.19090061505022088,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#20|None|their|The Clarus program shall inform ,weather#20,The Clarus program,0,0.19668550509163044,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#20|None|their|The Clarus program shall inform ,weather#20,contributors,1,0.19514277719594528,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#20|None|their|The Clarus program shall inform ,weather#20,the acceptance,0,0.19927904505706312,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#20|None|their|The Clarus program shall inform ,weather#20,the acceptance and use,0,0.19253833453609942,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#20|None|their|The Clarus program shall inform ,weather#20,use,0,0.1880722241703019,0,0.5
+roberta,resolution,42,1,reqeval_external,weather#20|None|their|The Clarus program shall inform ,weather#20,program,0,0.18755417722284437,0,0.5
+roberta,resolution,42,1,reqeval_external,railway#01|None|it|The logon screen shall activate ,railway#01,The logon screen,0,0.19888759811027962,0,0.5
+roberta,resolution,42,1,reqeval_external,railway#01|None|it|The logon screen shall activate ,railway#01,command control,1,0.19759414581881526,0,0.5
+roberta,resolution,42,1,reqeval_external,railway#01|None|it|The logon screen shall activate ,railway#01,the user,0,0.20216630393698662,0,0.5
+roberta,resolution,42,1,reqeval_external,railway#01|None|it|The logon screen shall activate ,railway#01,screen,0,0.19132357334083785,0,0.5
+roberta,resolution,42,1,reqeval_external,railway#01|None|it|The logon screen shall activate ,railway#01,user,0,0.19893270266988922,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#19|None|him|Within the braking curve area, a",railway#19,the braking curve area,0,0.18929579615946188,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#19|None|him|Within the braking curve area, a",railway#19,a warning,0,0.1962948758256084,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#19|None|him|Within the braking curve area, a",railway#19,the driver,1,0.20065792884976816,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#19|None|him|Within the braking curve area, a",railway#19,warning,0,0.18966002755515235,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#36|None|it|When the MMI is switched on, the",railway#36,the configuration,0,0.17560690446398022,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#36|None|it|When the MMI is switched on, the",railway#36,the time,0,0.1794855024692788,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#36|None|it|When the MMI is switched on, the",railway#36,the MMI,1,0.18150056156004093,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#36|None|it|When the MMI is switched on, the",railway#36,the same configuration,0,0.17752205863977447,0,0.5
+roberta,resolution,42,1,reqeval_external,"railway#36|None|it|When the MMI is switched on, the",railway#36,configuration,0,0.1711028297322365,0,0.5
+roberta,resolution,42,1,reqeval_external,home#03|None|their|The Digitalhome System shall pro,home#03,users,1,0.18872315776596757,0,0.5
+roberta,resolution,42,1,reqeval_external,home#03|None|their|The Digitalhome System shall pro,home#03,online documentation,0,0.18728638414693494,0,0.5
+roberta,resolution,42,1,reqeval_external,home#03|None|their|The Digitalhome System shall pro,home#03,the Digitalhome system,0,0.19314753793349618,0,0.5
+roberta,resolution,42,1,reqeval_external,"space#01|None|its|The FCP shall, if the NEFU ICP f",space#01,The FCP,0,0.2272016459793122,0,0.5
+roberta,resolution,42,1,reqeval_external,"space#01|None|its|The FCP shall, if the NEFU ICP f",space#01,the NEFU ICP,1,0.22557356401730214,0,0.5
+roberta,resolution,42,1,reqeval_external,space#10|None|their|Tasks in a rate group must suspe,space#10,a rate group,0,0.1894114334367645,0,0.5
+roberta,resolution,42,1,reqeval_external,space#10|None|their|Tasks in a rate group must suspe,space#10,a scheduler API call,0,0.18819469076196688,0,0.5
+roberta,resolution,42,1,reqeval_external,space#10|None|their|Tasks in a rate group must suspe,space#10,the top,0,0.19199051483706928,0,0.5
+roberta,resolution,42,1,reqeval_external,space#10|None|their|Tasks in a rate group must suspe,space#10,Tasks,1,0.19704799375354773,0,0.5
+roberta,resolution,42,1,reqeval_external,space#12|None|them|Messages are addressed with a gl,space#12,a global unique communication identifier,0,0.19064032044907384,0,0.5
+roberta,resolution,42,1,reqeval_external,space#12|None|them|Messages are addressed with a gl,space#12,Messages,1,0.19639459941839033,0,0.5
+roberta,resolution,42,1,reqeval_external,space#13|None|they|This restriction does NOT apply ,space#13,This restriction,0,0.25249229213203617,0,0.5
+roberta,resolution,42,1,reqeval_external,space#13|None|they|This restriction does NOT apply ,space#13,the ICPs,1,0.2536399266848494,0,0.5
+roberta,resolution,42,1,reqeval_external,space#13|None|they|This restriction does NOT apply ,space#13,restriction,0,0.2027491017309419,0,0.5

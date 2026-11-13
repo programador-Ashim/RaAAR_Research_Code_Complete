@@ -1,0 +1,24 @@
+group,id,doc,pronoun,n_candidates,predicted_antecedent,gold_antecedent,top_score,is_correct
+ReqEval|home#03|None|their|9591b68fe729e28d,home#03,home#03,their,3,the Digitalhome system,users,0.23275553298628798,0
+ReqEval|library#02|None|them|1ea5eee0c5476aa7,library#02,library#02,them,5,The library,important digital materials,0.2203759834996061,0
+ReqEval|library#04|None|they|db538f874ed1027e,library#04,library#04,they,3,resources,resources,0.2195505380179212,1
+ReqEval|library#05|None|their|effd6500039a2639,library#05,library#05,their,4,repository reformatting,metadata,0.22090524777542336,0
+ReqEval|library#07|None|them|01333dd9c482e5ad,library#07,library#07,them,4,AIPs,AIPs,0.21574625927100238,1
+ReqEval|library#12-a|None|them|9677376e4caa14a7,library#12-a,library#12,them,4,the requested AIP(s,the requested AIP(s,0.21841322377395314,1
+ReqEval|library#12-b|None|them|9677376e4caa14a7,library#12-b,library#12,them,5,the requested AIP(s,the requested AIP(s,0.21841322377395314,1
+ReqEval|library#18|None|it|71a421cc681908f8,library#18,library#18,it,2,event-driven events,a record,0.22431654832461137,0
+ReqEval|library#19|None|their|ed59ea4dc56e7cfd,library#19,library#19,their,6,archive Consumers and Producers,archive Consumers and Producers,0.2366982579567719,1
+ReqEval|railway#01|None|it|1cdaf56311e19837,railway#01,railway#01,it,5,The logon screen,command control,0.21993996792241066,0
+ReqEval|railway#19|None|him|fdd98cd82bc09cbc,railway#19,railway#19,him,4,the driver,the driver,0.21840108519119322,1
+ReqEval|railway#36|None|it|539bfb4e9d95900e,railway#36,railway#36,it,5,the MMI,the MMI,0.2111241182616106,1
+ReqEval|space#01|None|its|7a71f074c5e24735,space#01,space#01,its,2,the NEFU ICP,the NEFU ICP,0.2328656123586632,1
+ReqEval|space#10|None|their|692182520a0e9e4c,space#10,space#10,their,4,a scheduler API call,Tasks,0.21980850826914286,0
+ReqEval|space#12|None|them|6a425e514c635e21,space#12,space#12,them,2,a global unique communication identifier,Messages,0.22035689543078002,0
+ReqEval|space#13|None|they|3c48196da13fc6dd,space#13,space#13,they,3,the ICPs,the ICPs,0.23624927357671902,1
+ReqEval|weather#01|None|they|1053bca7c5910a17,weather#01,weather#01,they,3,The Clarus system,data,0.22979365429799117,0
+ReqEval|weather#03|None|their|902e34aac1ba46ed,weather#03,weather#03,their,3,The Clarus system,RWIS databases,0.22888967737828364,0
+ReqEval|weather#08|None|they|e22dc819dc5cc464,weather#08,weather#08,they,2,CS,environmental data,0.22427134382101802,0
+ReqEval|weather#12|None|they|1c8ce0e033c6a5e6,weather#12,weather#12,they,2,The DOG,new environmental data services,0.22728844763088146,0
+ReqEval|weather#14|None|their|928383b7c403148d,weather#14,weather#14,their,3,The QEDC,observations,0.22557298092661607,0
+ReqEval|weather#15|None|its|c2bb3c85975d7c87,weather#15,weather#15,its,2,The QEDC,The QEDC,0.2301859973676556,1
+ReqEval|weather#20|None|their|e31d0d5f77fea941,weather#20,weather#20,their,6,The Clarus program,contributors,0.22787559228685603,0

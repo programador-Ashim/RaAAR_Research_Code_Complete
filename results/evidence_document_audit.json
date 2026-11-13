@@ -1,0 +1,96 @@
+{
+  "predicted_antecedent": "sensor",
+  "linguistic_score": 0.82,
+  "decision": "human_review",
+  "reason": "contradictory",
+  "evidence": {
+    "candidate": "sensor",
+    "capability": "measure_temperature",
+    "target_version": "2.0",
+    "status": "contradictory",
+    "flags": {
+      "missing_current_evidence": false,
+      "outdated_evidence_found": false,
+      "contradictory_current_claims": true
+    },
+    "supporting_sources": [
+      {
+        "source_id": "SUP-20",
+        "candidate": "sensor",
+        "capability": "measure_temperature",
+        "polarity": true,
+        "valid_versions": [
+          "2.0"
+        ],
+        "authority": "authoritative",
+        "superseded_by": null,
+        "excerpt": "The sensor measures temperature."
+      }
+    ],
+    "refuting_sources": [
+      {
+        "source_id": "NEG-20",
+        "candidate": "sensor",
+        "capability": "measure_temperature",
+        "polarity": false,
+        "valid_versions": [
+          "2.0"
+        ],
+        "authority": "authoritative",
+        "superseded_by": null,
+        "excerpt": "The sensor does not measure temperature."
+      }
+    ],
+    "historical_or_inapplicable_sources": [],
+    "limitations": "Structured matching only; no automatic fact extraction or NLP retrieval."
+  },
+  "documents_inspected": [
+    {
+      "source_id": "SUP-20",
+      "path": "/Users/ashimpandey/Desktop/Research/RaAAR_Research_Code_Complete/evidence/documents/current_support.txt",
+      "claims_extracted": 1,
+      "source_excerpt_available": true
+    },
+    {
+      "source_id": "NEG-20",
+      "path": "/Users/ashimpandey/Desktop/Research/RaAAR_Research_Code_Complete/evidence/documents/current_refute.txt",
+      "claims_extracted": 1,
+      "source_excerpt_available": true
+    }
+  ],
+  "extracted_claims": [
+    {
+      "source_id": "SUP-20",
+      "candidate": "sensor",
+      "capability": "measure_temperature",
+      "polarity": true,
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative",
+      "superseded_by": null,
+      "excerpt": "The sensor measures temperature."
+    },
+    {
+      "source_id": "NEG-20",
+      "candidate": "sensor",
+      "capability": "measure_temperature",
+      "polarity": false,
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative",
+      "superseded_by": null,
+      "excerpt": "The sensor does not measure temperature."
+    }
+  ],
+  "method": "restricted-pattern extraction from local plain-text documents (not full semantic extraction)",
+  "source_manifest": "evidence/contradictory_documents.json",
+  "limitations": [
+    "Only declared text files and listed verb/capability templates are recognized.",
+    "Unmatched statements do not prove the corresponding capability is absent.",
+    "Versions and supersession metadata must be supplied and checked by researchers.",
+    "No automatic pronoun antecedent extraction or trained ranking model is used.",
+    "The supplied --score is illustrative unless taken from a separately trained resolution model."
+  ]
+}

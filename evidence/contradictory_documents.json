@@ -1,0 +1,24 @@
+{
+  "scenario": "contradictory",
+  "synthetic": true,
+  "documents": [
+    {
+      "source_id": "SUP-20",
+      "path": "documents/current_support.txt",
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative",
+      "superseded_by": null
+    },
+    {
+      "source_id": "NEG-20",
+      "path": "documents/current_refute.txt",
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative",
+      "superseded_by": null
+    }
+  ]
+}

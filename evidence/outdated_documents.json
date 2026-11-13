@@ -1,0 +1,15 @@
+{
+  "scenario": "outdated",
+  "synthetic": true,
+  "documents": [
+    {
+      "source_id": "ARCHIVE-10",
+      "path": "documents/old_support.txt",
+      "valid_versions": [
+        "1.0"
+      ],
+      "authority": "authoritative",
+      "superseded_by": "SUP-20"
+    }
+  ]
+}

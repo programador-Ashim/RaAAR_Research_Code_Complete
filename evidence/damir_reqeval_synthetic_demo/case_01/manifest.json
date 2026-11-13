@@ -1,0 +1,18 @@
+{
+  "requirement_keys": [
+    "DAMIR:RS0-1"
+  ],
+  "evidence_origin": "synthetic",
+  "study_note": "Artificial data created to test pipeline behavior; not source truth for DAMIR/ReqEval",
+  "scenario_label_for_testing_only": "supported",
+  "documents": [
+    {
+      "source_id": "SYN-01-POS",
+      "path": "current.txt",
+      "valid_versions": [
+        "2.0"
+      ],
+      "authority": "authoritative"
+    }
+  ]
+}

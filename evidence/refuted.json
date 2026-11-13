@@ -1,0 +1,1 @@
+{"facts":[{"source_id":"SYN-SPEC-2C","candidate":"sensor","capability":"measure_temperature","polarity":false,"valid_versions":["2.0"],"authority":"authoritative","superseded_by":null,"excerpt":"The sensor does not measure temperature."}]}

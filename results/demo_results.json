@@ -1,0 +1,212 @@
+[
+  {
+    "predicted_antecedent": "sensor",
+    "linguistic_score": 0.82,
+    "decision": "resolve",
+    "reason": "supported_and_confident",
+    "evidence": {
+      "candidate": "sensor",
+      "capability": "measure_temperature",
+      "target_version": "2.0",
+      "status": "supported",
+      "flags": {
+        "missing_current_evidence": false,
+        "outdated_evidence_found": false,
+        "contradictory_current_claims": false
+      },
+      "supporting_sources": [
+        {
+          "source_id": "SYN-SPEC-2A",
+          "candidate": "sensor",
+          "capability": "measure_temperature",
+          "polarity": true,
+          "valid_versions": [
+            "2.0"
+          ],
+          "authority": "authoritative",
+          "superseded_by": null,
+          "excerpt": "The sensor measures ambient temperature."
+        }
+      ],
+      "refuting_sources": [],
+      "historical_or_inapplicable_sources": [],
+      "limitations": "Structured matching only; no automatic fact extraction or NLP retrieval."
+    },
+    "case_id": "SYN-001",
+    "scenario": "supported",
+    "requirement": "The sensor sends readings to the display. It measures temperature.",
+    "candidate_scores": {
+      "note": "Illustrative score supplied by --score; no trained model used."
+    },
+    "expected_status": "supported",
+    "synthetic": true
+  },
+  {
+    "predicted_antecedent": "sensor",
+    "linguistic_score": 0.82,
+    "decision": "human_review",
+    "reason": "missing",
+    "evidence": {
+      "candidate": "sensor",
+      "capability": "measure_temperature",
+      "target_version": "2.0",
+      "status": "missing",
+      "flags": {
+        "missing_current_evidence": true,
+        "outdated_evidence_found": false,
+        "contradictory_current_claims": false
+      },
+      "supporting_sources": [],
+      "refuting_sources": [],
+      "historical_or_inapplicable_sources": [],
+      "limitations": "Structured matching only; no automatic fact extraction or NLP retrieval."
+    },
+    "case_id": "SYN-002",
+    "scenario": "missing",
+    "requirement": "The sensor sends readings to the display. It measures temperature.",
+    "candidate_scores": {
+      "note": "Illustrative score supplied by --score; no trained model used."
+    },
+    "expected_status": "missing",
+    "synthetic": true
+  },
+  {
+    "predicted_antecedent": "sensor",
+    "linguistic_score": 0.82,
+    "decision": "human_review",
+    "reason": "outdated",
+    "evidence": {
+      "candidate": "sensor",
+      "capability": "measure_temperature",
+      "target_version": "2.0",
+      "status": "outdated",
+      "flags": {
+        "missing_current_evidence": true,
+        "outdated_evidence_found": true,
+        "contradictory_current_claims": false
+      },
+      "supporting_sources": [],
+      "refuting_sources": [],
+      "historical_or_inapplicable_sources": [
+        {
+          "source_id": "SYN-SPEC-1A",
+          "candidate": "sensor",
+          "capability": "measure_temperature",
+          "polarity": true,
+          "valid_versions": [
+            "1.0"
+          ],
+          "authority": "authoritative",
+          "superseded_by": "SYN-SPEC-2A",
+          "excerpt": "In version 1, the sensor measures temperature."
+        }
+      ],
+      "limitations": "Structured matching only; no automatic fact extraction or NLP retrieval."
+    },
+    "case_id": "SYN-003",
+    "scenario": "outdated",
+    "requirement": "The sensor sends readings to the display. It measures temperature.",
+    "candidate_scores": {
+      "note": "Illustrative score supplied by --score; no trained model used."
+    },
+    "expected_status": "outdated",
+    "synthetic": true
+  },
+  {
+    "predicted_antecedent": "sensor",
+    "linguistic_score": 0.82,
+    "decision": "human_review",
+    "reason": "contradictory",
+    "evidence": {
+      "candidate": "sensor",
+      "capability": "measure_temperature",
+      "target_version": "2.0",
+      "status": "contradictory",
+      "flags": {
+        "missing_current_evidence": false,
+        "outdated_evidence_found": false,
+        "contradictory_current_claims": true
+      },
+      "supporting_sources": [
+        {
+          "source_id": "SYN-SPEC-2A",
+          "candidate": "sensor",
+          "capability": "measure_temperature",
+          "polarity": true,
+          "valid_versions": [
+            "2.0"
+          ],
+          "authority": "authoritative",
+          "superseded_by": null,
+          "excerpt": "The sensor measures temperature."
+        }
+      ],
+      "refuting_sources": [
+        {
+          "source_id": "SYN-SPEC-2B",
+          "candidate": "sensor",
+          "capability": "measure_temperature",
+          "polarity": false,
+          "valid_versions": [
+            "2.0"
+          ],
+          "authority": "authoritative",
+          "superseded_by": null,
+          "excerpt": "The sensor does not measure temperature."
+        }
+      ],
+      "historical_or_inapplicable_sources": [],
+      "limitations": "Structured matching only; no automatic fact extraction or NLP retrieval."
+    },
+    "case_id": "SYN-004",
+    "scenario": "contradictory",
+    "requirement": "The sensor sends readings to the display. It measures temperature.",
+    "candidate_scores": {
+      "note": "Illustrative score supplied by --score; no trained model used."
+    },
+    "expected_status": "contradictory",
+    "synthetic": true
+  },
+  {
+    "predicted_antecedent": "sensor",
+    "linguistic_score": 0.82,
+    "decision": "human_review",
+    "reason": "refuted",
+    "evidence": {
+      "candidate": "sensor",
+      "capability": "measure_temperature",
+      "target_version": "2.0",
+      "status": "refuted",
+      "flags": {
+        "missing_current_evidence": false,
+        "outdated_evidence_found": false,
+        "contradictory_current_claims": false
+      },
+      "supporting_sources": [],
+      "refuting_sources": [
+        {
+          "source_id": "SYN-SPEC-2C",
+          "candidate": "sensor",
+          "capability": "measure_temperature",
+          "polarity": false,
+          "valid_versions": [
+            "2.0"
+          ],
+          "authority": "authoritative",
+          "superseded_by": null,
+          "excerpt": "The sensor does not measure temperature."
+        }
+      ],
+      "historical_or_inapplicable_sources": [],
+      "limitations": "Structured matching only; no automatic fact extraction or NLP retrieval."
+    },
+    "case_id": "SYN-005",
+    "scenario": "refuted",
+    "requirement": "The sensor sends readings to the display. It measures temperature.",
+    "candidate_scores": {
+      "note": "Illustrative score supplied by --score; no trained model used."
+    },
+    "expected_status": "refuted",
+    "synthetic": true
+  }
+]

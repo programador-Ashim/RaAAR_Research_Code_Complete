@@ -1,0 +1,3 @@
+System components specification 2.0.
+The sensor measures temperature.
+The display shows data.

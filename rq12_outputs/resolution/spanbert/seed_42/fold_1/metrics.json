@@ -1,0 +1,35 @@
+{
+  "task": "resolution",
+  "model": "spanbert",
+  "seed": 42,
+  "fold": 1,
+  "epochs": 1,
+  "train_rows": 928,
+  "dev_rows": 739,
+  "threshold": 0.5,
+  "threshold_objective": "not_applicable",
+  "class_weights": [
+    0.5888324975967407,
+    3.3142857551574707
+  ],
+  "train_class_counts": {
+    "0": 788,
+    "1": 140
+  },
+  "training_checkpoint": "/Users/ashimpandey/Desktop/Research/RaAAR_Research_Code_Complete/rq12_outputs/resolution/spanbert/seed_42/fold_1/checkpoints/checkpoint-116",
+  "document_grouping": "id-prefix heuristic (not yet validated)",
+  "dataset_sha256": {
+    "damir_all.jsonl": "95b5744ef9477135e383a54bd45c3d217cb43a487d2cc6e4e173da7d232989a8",
+    "reqeval_test.jsonl": "aeafbc68fd4081cb904f6cd273b66fa9ad4e31ef1bcef4341985c726184e193d"
+  },
+  "damir_cv": {
+    "n_ranked_pronouns": 49,
+    "top1_correct": 22,
+    "top1_accuracy": 0.4489795918367347
+  },
+  "reqeval_external": {
+    "n_ranked_pronouns": 23,
+    "top1_correct": 10,
+    "top1_accuracy": 0.43478260869565216
+  }
+}

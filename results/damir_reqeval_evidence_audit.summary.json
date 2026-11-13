@@ -1,0 +1,20 @@
+{
+  "total": 696,
+  "by_dataset": {
+    "DAMIR": {
+      "supported": 2,
+      "missing": 1,
+      "not_assessed": 582,
+      "outdated": 1,
+      "contradictory": 1
+    },
+    "ReqEval": {
+      "not_assessed": 104,
+      "supported": 2,
+      "missing": 1,
+      "outdated": 1,
+      "contradictory": 1
+    }
+  },
+  "warning": "not_assessed means no validated evidence, NOT missing knowledge; synthetic results are demonstrations, not empirical proof"
+}

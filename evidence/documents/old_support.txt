@@ -1,0 +1,2 @@
+Archived system specification 1.0.
+The sensor measures temperature.

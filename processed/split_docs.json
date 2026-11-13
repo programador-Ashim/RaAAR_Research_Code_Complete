@@ -1,0 +1,27 @@
+{
+  "train": [
+    "RS6",
+    "RS10",
+    "RS12",
+    "RS8",
+    "RS5",
+    "RS14",
+    "RS3",
+    "RS9",
+    "RS15",
+    "RS7",
+    "RS17"
+  ],
+  "validation": [
+    "RS4",
+    "RS2",
+    "RS11"
+  ],
+  "damir_test": [
+    "RS0",
+    "RS1",
+    "RS16",
+    "RS13"
+  ],
+  "grouping_method": "UNVERIFIED id-prefix heuristic"
+}
